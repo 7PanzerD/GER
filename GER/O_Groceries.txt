@@ -1,0 +1,23 @@
+Fruits (Obst):
+	1.	Apple – der Apfel
+	2.	Banana – die Banane
+	3.	Orange – die Orange
+	4.	Strawberry – die Erdbeere
+	5.	Grape – die Traube
+	6.	Lemon – die Zitrone
+	7.	Peach – der Pfirsich
+	8.	Pear – die Birne
+	9.	Watermelon – die Wassermelone
+	10.	Cherry – die Kirsche
+
+Vegetables (Gemüse):
+	1.	Carrot – die Karotte / die Möhre
+	2.	Potato – die Kartoffel
+	3.	Tomato – die Tomate
+	4.	Cucumber – die Gurke
+	5.	Onion – die Zwiebel
+	6.	Garlic – der Knoblauch
+	7.	Spinach – der Spinat
+	8.	Lettuce – der Salat
+	9.	Broccoli – der Brokkoli
+	10.	Cauliflower – der Blumenkohl
